@@ -3,6 +3,7 @@
 This is a airline price prediction project made in python using the IDE jupter notebook. It can be deploayed on local host using the app.py file.
 
 Follow the following steps to run your project smoothly on your computer:
+
 Step 1: Download all the file from my git hub in your main folder.
 
 Step 2: In the main folder make a static folder in it make another folder css and then add the image and style.css file.
